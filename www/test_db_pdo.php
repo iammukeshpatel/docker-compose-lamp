@@ -1,7 +1,7 @@
 <?php
 
 $DBuser = 'root';
-$DBpass = 'tiger';
+$DBpass = '';
 $pdo = null;
 
 try{
